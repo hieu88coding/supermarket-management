@@ -3,4 +3,4 @@ Project 1 from HUST ||
 
 
 
-A newbie project on POS system and Java Swing
+A newbie project on POS system using Java Swing
