@@ -1,0 +1,3 @@
+ID,Name,Quantity,Price,Category,Barcode,SupID,SupName,CostPrice,ExpDate,MfgDate,Unit,Company,Brand,Description,Note
+16,gà rán,200,5,Thit,100215,1,trung nguyen,1,21/3/2024,14/2/2023,Cái,KFC,0,good,1
+17,MilkTea,200,5,Do uong,100216,1,trung nguyen,1,21/3/2023,14/2/2023,Chai/lon,Koi,0,good,1
